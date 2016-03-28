@@ -1,0 +1,10 @@
+*.pyc
+!lib/README.md
+.DS_Store
+
+flask/
+
+.idea/*
+
+datastore
+lib
